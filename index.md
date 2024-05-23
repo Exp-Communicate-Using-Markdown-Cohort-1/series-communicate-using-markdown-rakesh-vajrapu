@@ -17,3 +17,10 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+
+
+## Adding Task lists
+- [x] Review the code
+- [x] Complete the code
+- [ ] refactor the code
